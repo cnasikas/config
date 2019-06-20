@@ -6,3 +6,4 @@
 .bundle
 .secret
 database.yml
+.gnupg
