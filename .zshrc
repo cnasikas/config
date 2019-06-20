@@ -82,6 +82,7 @@ alias -s c=vim
 alias -s h=vim
 alias -s txt=vim
 alias -s log=tail
+alias python='python3'
 
 setopt AUTO_PUSHD
 setopt BRACE_CCL
