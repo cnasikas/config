@@ -54,7 +54,7 @@ ZSH_THEME="agnoster"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git Composer docker encode64 npm osx colored-man-pages)
+plugins=(git autojump docker encode64 npm osx colored-man-pages vi-mode)
 
 source $ZSH/oh-my-zsh.sh
 
